@@ -451,8 +451,9 @@ footer .copy-right{
      } */
      header .product {
         position: relative;
-        margin-right: 206px;
-        margin-bottom: 25px;
+        margin-right: 54px;
+        margin-bottom: 23px;
+        margin-top: 51px;
+        width: 69%;
     }
-
 }
